@@ -12,7 +12,7 @@
     <artifactId>pragra-ec</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>pragra-ec</name>
-    <description>pragra-ec for demo</description>
+    <description>pragra-ec</description>
     <properties>
         <java.version>11</java.version>
     </properties>
